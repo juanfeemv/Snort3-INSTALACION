@@ -1,7 +1,7 @@
 # 🚨 Instalación de **Snort 3** en Raspberry Pi 5  
 Guía actualizada **2025**, probada en ARM64 y libre de los típicos errores de memoria (💥 *SIGABRT*) al compilar Snort en Raspberry Pi.
 
-> Esta guía existe porque prácticamente **no hay tutoriales completos** sobre Snort 3 en Raspberry Pi… así que aquí tienes uno funcional, probado y hecho con cariño ❤️.
+> Esta guía existe porque prácticamente **no hay tutoriales completos** sobre Snort 3 en Raspberry Pi… así que aquí tienes uno funcional y probado.
 
 ---
 
